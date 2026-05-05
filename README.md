@@ -3,7 +3,7 @@
 Trolley Budget Scanner is an embedded system designed to streamline the shopping experience by automatically tracking the total cost of items in a trolley in real time.
 
 In traditional shopping environments, customers often rely on manual calculations or wait until checkout to see the total cost. This frequently leads to overspending, miscalculations, and checkout delays. The Trolley Budget Scanner solves this problem by integrating a barcode scanner, Arduino UNO, LCD display, keypad, and LED alert system to provide live expense tracking with budget notifications.
-
+ 
 ---
 
 ## Problem Statement
